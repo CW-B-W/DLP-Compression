@@ -1,0 +1,10 @@
+C:\Users\Brad\GitHub\DLP-Compression\DLP-Compression\DLP-Compression\bin\Debug\DLP-Compression.exe.config
+C:\Users\Brad\GitHub\DLP-Compression\DLP-Compression\DLP-Compression\bin\Debug\DLP-Compression.exe
+C:\Users\Brad\GitHub\DLP-Compression\DLP-Compression\DLP-Compression\bin\Debug\DLP-Compression.pdb
+C:\Users\Brad\GitHub\DLP-Compression\DLP-Compression\DLP-Compression\bin\Debug\BitmapFasterIO.dll
+C:\Users\Brad\GitHub\DLP-Compression\DLP-Compression\DLP-Compression\obj\Debug\DLP-Compression.csprojResolveAssemblyReference.cache
+C:\Users\Brad\GitHub\DLP-Compression\DLP-Compression\DLP-Compression\obj\Debug\DLP_Compression.Form1.resources
+C:\Users\Brad\GitHub\DLP-Compression\DLP-Compression\DLP-Compression\obj\Debug\DLP_Compression.Properties.Resources.resources
+C:\Users\Brad\GitHub\DLP-Compression\DLP-Compression\DLP-Compression\obj\Debug\DLP-Compression.csproj.GenerateResource.Cache
+C:\Users\Brad\GitHub\DLP-Compression\DLP-Compression\DLP-Compression\obj\Debug\DLP-Compression.exe
+C:\Users\Brad\GitHub\DLP-Compression\DLP-Compression\DLP-Compression\obj\Debug\DLP-Compression.pdb
